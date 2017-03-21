@@ -1,0 +1,16 @@
+{
+  "name": "generator-skimiaos-project",
+  "version": "0.1.0",
+  "description": "generate a new skimiaos sub project",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "guid": "0.0.12",
+    "yeoman-generator": "^1.0.0"
+  },
+  "private": true
+}
